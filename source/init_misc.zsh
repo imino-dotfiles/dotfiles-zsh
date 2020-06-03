@@ -5,7 +5,6 @@ setopt hist_verify
 
 setopt auto_pushd
 setopt pushd_ignore_dups
-
 setopt extended_glob
 
 setopt auto_cd

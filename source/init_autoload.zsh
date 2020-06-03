@@ -1,3 +1,4 @@
-autoload -Uz colors ; colors
-autoload -Uz compinit ; compinit
-
+function init_autoload() {
+                           autoload -Uz colors ; colors
+                           autoload -Uz compinit ; compinit
+                         }
